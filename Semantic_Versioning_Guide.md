@@ -11,7 +11,7 @@ Given a version number `MAJOR.MINOR.PATCH`, increment the:
 
 Additional labels for pre-release and build metadata are available as extensions to the `MAJOR.MINOR.PATCH` format.
 
-For example, say you have a version 1.0.0 candidate ready but want to test it before you make your release. You could label the pre-release versions as follows:
+For example, say you have a version `1.0.0` candidate ready but want to test it before you make your release. You could label the pre-release versions as follows:
 
     1.0.0-alpha.1
     1.0.0-alpha.2
@@ -24,3 +24,6 @@ Once you are happy with the stability of `1.0.0`, you can make the official rele
   2. Make as many breaking changes as needed 
   3. Realease version `1.0.0` to the public
   4. Increment version as [described above](#How)
+
+## Notes
+Version numbers should not be confused with bach numbers. We track batch numbers from original equipment manufacturer in `oem_batch.csv` you can find inside the projects repository.
