@@ -5,9 +5,9 @@ Following the guides from [SemVer](https://semver.org) we intend to have a simil
 ## How
 Given a version number `MAJOR.MINOR.PATCH`, increment the:
 
-  * `MAJOR` when making an incompatible hardware/software change
-  * `MINOR` when adding functionality in a backwards-compatible manner
-  * `PATCH` when make backwards-compatible bug fixes
+  * `MAJOR` when we make a incompatible hardware-software change
+  * `MINOR` when we add functionality in a backwards-compatible manner
+  * `PATCH` when we make backwards-compatible bug fixes
 
 Additional labels for pre-release and build metadata are available as extensions to the `MAJOR.MINOR.PATCH` format.
 
