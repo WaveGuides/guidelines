@@ -26,4 +26,4 @@ Once you are happy with the stability of `1.0.0`, you can make the official rele
   4. Increment version as [described above](#How)
 
 ## Notes
-Version numbers should not be confused with bach numbers. We track batch numbers from original equipment manufacturer in `oem_batch.csv` you can find inside the projects repository.
+Version numbers should not be confused with batch numbers. We track batch numbers from original equipment manufacturer in `oem_batch.csv` you can find inside the projects repository.
