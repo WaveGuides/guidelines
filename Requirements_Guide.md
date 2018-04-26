@@ -1,10 +1,6 @@
 # Requirements Guide
 
-It is important in the module development process to define the problem to be solved.
-In the requirement page in the projects wiki we define our goal in specific, quantifiable units; 
-we will develop a product with these functions and features. Revision control is important to 
-the development process. Please use good commit messages as this will create nice timeline of the 
-module’s needs as they change.
+It is important to clearly define the requirements of a module. The requirements document defines our goals in specific, quantifiable units as described by a few simple rules. Requirements can change over time and we track these inside the `requirements.md` document in the projects `docs` folder. Please use good commit messages as this will create nice timeline of needs as they change.
 
 ## 1. Requirement Numbers
 
