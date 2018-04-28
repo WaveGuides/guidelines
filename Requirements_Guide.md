@@ -1,4 +1,4 @@
-# Requirements Guide
+# AWG Requirements Guide
 
 It is important to clearly define the requirements of a module. The requirements document defines our goals in specific, quantifiable units as described by a few simple rules. Requirements can change over time and we track these inside the `requirements.md` document in the projects `docs` folder. Please use good commit messages as this will create nice timeline of needs as they change.
 
