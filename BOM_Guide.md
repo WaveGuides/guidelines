@@ -35,3 +35,4 @@ Description of the part.
 ## Comments
 Any comments you might have. 
 
+See our [BOM_Template](https://github.com/WaveGuides/awg-boilerplate/blob/master/docs/bom.md) inside our [boilerplate project](https://github.com/WaveGuides/awg-boilerplate)
