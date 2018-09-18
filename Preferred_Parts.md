@@ -1,6 +1,6 @@
-# AWG Parts Style Guide
+# AWG Preferred Parts
 
-A guide to some standard preferred parts
+A guide to our preferred parts. Use these whenever possible.
 
 ## Potentiometers
   - D-Shaft
@@ -14,7 +14,7 @@ A guide to some standard preferred parts
 
 ## Panel Colours
   - Black Panel (DIY Kits)
-  - Copper and white marks
+    - Copper and white marks
 
 ## LEDs
   - Red and Green
