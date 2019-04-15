@@ -9,3 +9,4 @@ Some of our guidelines and processes.
   - [Semantic Versioning](Semantic_Versioning_Guide.md)
   - [Writing Documentation](Writing_Documentation_Guide.md)
   
+![WaveGuides](https://github.com/waveguides/awg-graphics/raw/master/logos/awg/awg_diamond_gitfooter-grey.png)
