@@ -7,7 +7,7 @@ A guide to our preferred parts. Use these whenever possible.
   - 9mm
 
 ## Jacks
-  - Thonkiconn 3.5mm
+  - [Thonkiconn](http://www.qingpu-electronics.com/en/products/WQP-PJ398SM-362.html)
 
 ## Knobs
   - Synth Pointer
