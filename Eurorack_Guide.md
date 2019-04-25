@@ -40,7 +40,7 @@ AWG follows the [Doepfer standard](http://www.doepfer.de/a100_man/a100m_e.htm).
 | 28   | 142.24                | 141.90            |
 | 42   | 213.36                | 213.00            |
 
-### Mounting holes
+### Panel Mounting holes
 
   * Diameter 3.2mm
 
@@ -48,3 +48,24 @@ AWG follows the [Doepfer standard](http://www.doepfer.de/a100_man/a100m_e.htm).
 |:----------|---------------:|-------------:|
 | First Row | 7.5            | 3.0          |
 | Next Rows | N * 5.08 + 7.5 | 3.0          |
+
+### Gie-tec Rails
+
+The rails take M3 square nuts or threaded rails.
+Assuming a modular face plate thickness of 2mm:
+
+  - M3 x 6mm 
+  - M3 x 8mm (if washer is used)
+
+#### End fixing
+
+  - M5 machine screw
+
+Center Position hole from outside:
+
+  - X: 13.8mm  
+  - Y: 5mm
+
+This makes the distance 123.4: 
+
+    3U (133.4 mm) - 10mm
