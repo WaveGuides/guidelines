@@ -2,7 +2,7 @@
 
 This guide will run you through our standard Bills of Materials or BOM elements.
 
-The BOM or Bill of Materials is saved inside the projects `docs` folder and can be seen as a simple _parts list_. It's only use is to communicate the components needed to complete a build. It does not deal with cost and/or lead-times. A rough cost estimate may be included but never trusted.
+The BOM or Bill of Materials is saved inside the projects `docs` folder and can be seen as a simple _parts list_. It's only use is to communicate the components needed to complete a build. It does not deal with cost and/or lead-times.
 
 > a _chart_ may be included in the **Notes** section of the BOM.
 
@@ -22,12 +22,6 @@ The manufacturer of the part.
 
 ## Man. Part \#
 The Part Number of the manufacturer.
-
-## Distributer
-The chosen distributer of the part.
-
-## Dist. Part \#
-The Part Number of the distributer.
 
 ## Description
 Description of the part.
