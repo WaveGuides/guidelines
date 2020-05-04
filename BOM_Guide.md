@@ -2,7 +2,7 @@
 
 This guide will run you through our standard Bills of Materials or BOM elements.
 
-The BOM or Bill of Materials is saved inside the projects `docs` folder and can be seen as a simple _parts list_. It's only use is to communicate the components needed to complete a build. It does not deal with cost and/or lead-times.
+The BOM or Bill of Materials is saved inside the projects `docs` folder and can be seen as a simple _parts list_. It's only use is to communicate the components needed to complete a build. It does not deal with cost and/or lead-times. A rough cost estimate may be included but never trusted.
 
 > a _chart_ may be included in the **Notes** section of the BOM.
 
