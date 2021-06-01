@@ -2,6 +2,11 @@
 
 A guide to our preferred parts. Use these whenever possible.
 
+## 3D Models
+
+https://grabcad.com/
+
+
 ## Potentiometers
   - D-Shaft
   - 9mm
